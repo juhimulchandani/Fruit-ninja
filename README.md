@@ -1,5 +1,6 @@
 # Fruit-ninja
-A simple and fun game made by using technologies such as Javascript and jQuery.
+A simple game covering basics of HTML CSS and JS
+Also fun game made by using technologies such as Javascript and jQuery.
 It gives experience as Android app game as Fruit Ninja.
 ## Screenshots
 ### 1.Game Start
